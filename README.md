@@ -1,6 +1,5 @@
 # Stellar-Classification
-Stellar Classification: A Particle Swarm  Optimization Approach 
-
+**Stellar Classification: A Particle Swarm  Optimization Approach**
 
 **Problem Description**
 
